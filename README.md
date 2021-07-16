@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mahqueiroz
-- 👀 I’m currently mastering SQL and python in order to better analyse data!
+- 👀 I’m currently mastering SQL and python in order to better analyse data, better visualisation with Tableau and Power Bi!
 - � I love story telling, specially when the story teller is data
 - 💞️ I’m looking for a Data Analyst job where I can continue develop myself professionally 
 - 📫 How to reach me at 083 165 2351 
