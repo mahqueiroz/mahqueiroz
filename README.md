@@ -13,6 +13,7 @@ BIO <br />
 🌱 Learning all about MLs and how to use them <br />
 💬 Ping me about Data Analysis in big scale, data Engineering and related <br />
 📫 Reach me: 083 165 2351 <br />
+📫 Email: mrcl.queiroz21@gmail.com <br />
 ⚡️ The answer to the ultimate question of life, the universe, and everything! ⚡️  <br />
 
 <!---
