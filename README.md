@@ -7,7 +7,7 @@ NOW <br />
 🍑 What about this? <br />
 
 BIO <br />
-🏢 I'm currently working at Cardinal Maritime  <br />
+🏢 I'm currently working at Cardinal Maritime as Data Entry on Financial Department<br />
 ⚙️ I use daily: Python, SQL, Tableau, Excel <br />
 🌍 I'm mostly active within Kaggle and ML Algorithms <br />
 🌱 Learning all about MLs and how to use them <br />
