@@ -1,5 +1,5 @@
 Hi there 👋 <br />
-I'm a Data Inthusiast working in Dublin, Ireland. <br /> <br />
+I'm a Data Analytics Student and working in Dublin, Ireland. <br /> <br />
 NOW <br />
 ✨ MSC in Data Analytics; <br />
 ✨ Bachelor in Information Systems; <br />
