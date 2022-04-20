@@ -4,7 +4,6 @@ NOW <br />
 ✨ MSC in Data Analytics; <br />
 ✨ Bachelor in Information Systems; <br />
 ✨ Experience in Design Web and Digital Marketing <br />
-🍑 What about this? <br />
 
 BIO <br />
 🏢 I'm currently working at Cardinal Maritime as Data Entry on Financial Department<br />
